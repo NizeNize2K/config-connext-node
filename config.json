@@ -30,7 +30,7 @@
       ]
     },
         "3331": {
-      "providers": ["https://kovan.infura.io/v3/b3476c4fc673421cbd73840cb108c136"],
+      "providers": ["https://goerli.infura.io/v3/b3476c4fc673421cbd73840cb108c136"],
       "assets": [
         {
           "address": "0x3FFc03F05D1869f493c7dbf913E636C6280e0ff9",
